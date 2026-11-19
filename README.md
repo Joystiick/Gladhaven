@@ -1,5 +1,7 @@
 # Gladhaven Farms
 
+**Play it:** https://gladhaven.arg.qturn.dev
+
 *Happy animals. Honest meat.*
 
 A satirical horror ARG told through a website. Gladhaven looks like a wholesome, family-run meat company with a cartoon pig mascot called Merry. Dig around and you'll find five hidden digits, an employee login, a grim staff intranet, and whatever is inside Barn 7.
